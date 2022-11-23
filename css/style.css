@@ -1,0 +1,59 @@
+
+ 
+ body{
+background-color: #f1f2f6;
+margin: 0;
+}
+
+.cb {
+    clear: both;
+}
+
+.right {
+    float: right;
+    margin: 10%;
+
+}
+
+.left{
+    float: left;
+    margin 60px;
+    
+}
+
+
+.fieldset{
+    width: 48%;
+  border: #7e2559 dotted 5px;
+}
+
+
+.correo{
+    width: 250px;
+}
+
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    
+}
+
+txt-center{
+text-align: center;
+padding-left: 20px;
+
+}
+
+
+
+
+.aceptar{
+    border-radius: 6px;
+    padding-left: 80%;
+    background-color: green;
+    color: #f1f2f6;
+    
+  }
